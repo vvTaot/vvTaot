@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <em>From imagination to reality.</em>
+</p>
 
-<!--
-**vvTaot/vvTaot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ciallo～(∠・ω< )⌒☆
 
-Here are some ideas to get you started:
+I'm Taotao, a teenage student curious about programming, the sky, and the world beyond. I enjoy building in Minecraft and exploring how code can turn ideas into things people can use, experience, and share.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm doing
+
+I'm exploring VibeCoding, learning more about programming and different languages, and experimenting with small projects inspired by my ideas.
+
+Along the way, I want to stay curious, keep exploring, and gradually find my own direction. I hope to contribute to open source in the future and see more of the world for myself.
+
+---
+
+<p align="center">
+  <strong>Stay curious. Bring ideas to life, one step at a time.</strong>
+</p>
